@@ -1,0 +1,14 @@
+body{
+	padding-bottom: 80px;
+}
+
+.krepko{
+	font-weight: bold;
+	color:black;
+}
+
+.glavaTabele{
+	background-color: #3399ff;
+	color: white;
+	font-weight: bold;
+}
